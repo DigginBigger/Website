@@ -42,7 +42,7 @@ nav a:hover, nav a.active {
 .hero p { font-size: 1.1em; margin-bottom: 20px; }
 .btn {
   background: #f5b335;
-  color: #222;
+  color: #f5b335;
   padding: 10px 20px;
   border-radius: 3px;
   font-weight: bold;
