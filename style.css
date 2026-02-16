@@ -212,7 +212,7 @@ footer {
   padding: 120px 20px 100px;
   overflow: hidden;
 }
-.track-overlay.png {
+.track-overlay {
   position: absolute;
   top: -50px;
   left: -50px;
@@ -221,8 +221,9 @@ footer {
   background-image: url('track-overlay.png');
   background-repeat: repeat;
   background-size: 400px; /* adjust scale of pattern */
-  opacity: 0.2; /* adjust transparency */
+  opacity: 0.3; /* adjust transparency */
   transform: rotate(-25deg); /* angle of the tracks */
   pointer-events: none; /* make it non-clickable */
-  mix-blend-mode: multiply; /* blends the marks naturally */
+  mix-blend-mode: multiply;/* blends the marks naturally */
+  z-index: 1;
 }
