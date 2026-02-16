@@ -206,7 +206,7 @@ footer {
 /* ====== Excavator Track Marks ====== */
 .hero {
   position: relative;
-  background-color: rgba(255, 0, 0, 0.2);
+  background-color: #f4f4f4;
   color: #222;
   text-align: center;
   padding: 120px 20px 100px;
