@@ -52,7 +52,7 @@ nav a:hover, nav a.active {
 /* ====== Sections ====== */
 .page-hero {
   background: #f5b335;
-  color:#f5b335;
+  color:#222;
   padding: 60px 20px;
   text-align: center;
 }
